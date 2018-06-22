@@ -1,9 +1,8 @@
 name: mnist
 channels:
-  - anaconda
-  - conda-forge
+    - conda-forge
 dependencies:
   - python=3.6.5
+  - tensorflow
+  - keras
   - matplotlib
-  - tensorflow=1.8.0
-  - keras=2.2.0
