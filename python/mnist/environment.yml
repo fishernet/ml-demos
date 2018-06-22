@@ -1,0 +1,7 @@
+name: mnist
+dependencies:
+- python=3.6.5
+- pip:
+  - matplotlib
+  - tensorflow
+  - keras
