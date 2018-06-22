@@ -1,6 +1,6 @@
 name: mnist
 channels:
-    - conda-forge
+  - conda-forge
 dependencies:
   - python=3.6.5
   - tensorflow
